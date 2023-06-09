@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aggrey-aggrey&label=Profile%20views&color=0e75b6&style=flat" alt="aggrey-aggrey" /> </p>
 
-- 🔭 I’m currently working on **AngularJS project that will post link later in my github**
+- 🔭 I’m currently working on **AngularJS project that i will share a github link later **
 
 - 🌱 I’m currently learning **Azure Cloud**
 

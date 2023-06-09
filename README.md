@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aggrey O</h1>
-<h3 align="center">A passionate software engineer with experience in both software development and software quality engineering. I have experience building distributed cloud natives applications in AWS Cloud. Also experience building creating cloud infrastructure on AWS using Terraform. On quality engineering i have experience building UI automation test with  **Selenium**, CypressJS, Katalon and more. Backend automation with  **Rest-assured.io **</h3>
+<h5 align="center">A passionate software engineer with experience in both software development and software quality engineering. I have experience building distributed cloud natives applications in AWS Cloud. Also experience building creating cloud infrastructure on AWS using Terraform. On quality engineering i have experience building UI automation test with  Selenium, CypressJS, Katalon and more. Backend automation with Rest-assured.io</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aggrey-aggrey&label=Profile%20views&color=0e75b6&style=flat" alt="aggrey-aggrey" /> </p>
 

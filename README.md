@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aggrey O</h1>
-<h3 align="center">A passionate software engineer with experience wit both software development and software quality engineering</h3>
+<h3 align="center">A passionate software engineer with experience in both software development and software quality engineering. I have experience building distributed cloud natives applications in AWS Cloud. Also experience building creating cloud infrastructure on AWS using Terraform. On quality engineering i have experience building UI automation test with  **Selenium**, CypressJS, Katalon and more. Backend automation with  **Rest-assured.io **</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aggrey-aggrey&label=Profile%20views&color=0e75b6&style=flat" alt="aggrey-aggrey" /> </p>
 
 - 🔭 I’m currently working on **AngularJS project that i will share a github link later **
 
-- 🌱 I’m currently learning **Azure Cloud**
+- 🌱 I’m currently in a MultiCloud Bootcamp that covers cloud services for AWS, Azure, Google and Oracle Cloud.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

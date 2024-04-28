@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aggrey-aggrey&label=Profile%20views&color=0e75b6&style=flat" alt="aggrey-aggrey" /> </p>
 
-- 🔭 I’m currently working on Building Cypress automation to test NextJS application
+- 🔭 I’m currently immersed in MultiCloud projects and having a lot of fun building applications, provisioning and deploying applications on Cloud using Terrraform.
 
-- 🌱 I’m currently in a MultiCloud Bootcamp that covers cloud services for AWS, Azure, Google and Oracle Cloud.
+- 🌱 Click the link below to read more about my real world cloud projects :
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

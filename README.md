@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently immersed in MultiCloud projects and having a lot of fun building applications, provisioning and deploying applications on Cloud using Terrraform.
 
-- 🌱 Click the link below to read more about my real world cloud projects :
+- 🌱 Click the  medium link below to read more about my real world cloud projects :
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me via medium:</h3>
 <p align="left">
 <a href="https://medium.com/@aggrey.o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aggrey.o" height="30" width="40" /></a>
 </p>

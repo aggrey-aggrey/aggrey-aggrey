@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aggrey-aggrey&label=Profile%20views&color=0e75b6&style=flat" alt="aggrey-aggrey" /> </p>
 
-- 🔭 Recently I have been using AI, in particular CoPilot and Claude.ai to build production grade applications and infrastructure which run AWS Cloud. I also have exposure setting up Cloud Infrastructure on Azure and Google Cloud.
+- 🔭 Recently I have been using AI, in particular CoPilot 4.0 model and Claude.ai to build production grade applications and infrastructure which run AWS Cloud. I also have exposure setting up Cloud Infrastructure on Azure and Google Cloud.
 
 - 🌱 Click the  medium link below to read more about my real world cloud projects :
 

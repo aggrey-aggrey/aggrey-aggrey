@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aggrey O</h1>
-<h4 align="center">A passionate software engineer with experience in both software development and software quality engineering. I have experience building distributed cloud natives applications than run on AWS Cloud. Also experience creating cloud infrastructure on AWS using Terraform. On quality engineering i have experience building UI automation test with  Selenium, CypressJS, Katalon and more. Backend automation with Rest-assured.io</h3>
+<h4 align="center">A passionate software engineer with experience in both software development, quality engineering and cloud engineering. I have built distributed cloud natives applications than run on AWS Cloud. Experience creating cloud infrastructure on AWS using Terraform, Ansible and scripting using bash script. On quality engineering i have experience building UI automation test with  Selenium, CypressJS, Katalon and more. Backend automation with Rest-assured.io</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aggrey-aggrey&label=Profile%20views&color=0e75b6&style=flat" alt="aggrey-aggrey" /> </p>
 
-- 🔭 I’m currently immersed in MultiCloud projects and having a lot of fun building applications, provisioning and deploying applications on Cloud using Terrraform.
+- 🔭 Recently I have been using AI, in particular CoPilot and Claude.ai to build production grade applications and infrastructure which run AWS Cloud. I also have exposure setting up Cloud Infrastructure on Azure and Google Cloud.
 
 - 🌱 Click the  medium link below to read more about my real world cloud projects :
 
